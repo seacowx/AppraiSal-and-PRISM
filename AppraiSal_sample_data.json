@@ -1,0 +1,1632 @@
+{
+  "7LVFLwcyTv||1": {
+    "situation": "I raced my laundry‑delivery van through the packed downtown streets to drop off a bride’s wedding gown, and a stray dog bolted onto the road, forcing me to slam on the brakes while my hands trembled and I froze in the middle of the intersection.",
+    "thought": "I can’t stop replaying the moment I hesitated—if I hadn’t frozen, that dog would still be alive and the bride wouldn’t be sobbing over the ruined dress, and I feel like a selfish, reckless failure.",
+    "bdi": {
+      "desire": {
+        "content": "I wish that the bride’s gown arrives on time, pristine, the day’s crown jewel."
+      },
+      "belief": {
+        "content": "I believe that I can glide through downtown fast and stay steady when clients depend on me."
+      },
+      "intention": {
+        "content": "I intend to use the shortcut I mapped and keep the momentum."
+      }
+    },
+    "cogapp_dims": [
+      {
+        "rank": 1,
+        "appraisal_name": "self_cause"
+      },
+      {
+        "rank": 2,
+        "appraisal_name": "goal_incongruence"
+      },
+      {
+        "rank": 3,
+        "appraisal_name": "suddenness"
+      },
+      {
+        "rank": 4,
+        "appraisal_name": "unpredictability_of_consequences"
+      },
+      {
+        "rank": 5,
+        "appraisal_name": "coping_demand"
+      }
+    ],
+    "persona_profile": {
+      "occupation": "Laundry and Dry-Cleaning Workers",
+      "gender": "female",
+      "education": "bachelor's",
+      "name": "Kayla",
+      "traits": "You are an extroverted and emotionally unstable person. When it comes to dealing with other people, you are often antagonistic. You are always very organized when tackling problems. Further, you are very open-minded about new things. ",
+      "persona_hub": "A pedestrian who happened to be at the scene of a major car accident and can provide vital information."
+    },
+    "dialogue_history": [
+      {
+        "speaker": "Therapist",
+        "content": "Good morning, Kayla. It’s nice to see you. How are you feeling as you settle in today?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Morning! I’m okay, just shaking out my jacket and trying not to let the street noise get in my head. You know, the usual hustle before my first run."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Sounds like a busy day ahead. What’s on your schedule this morning?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’ve got a stack of wedding dresses to pick up, a van full of freshly pressed linens, and then the big drop‑off for a bride’s gown downtown. I’ve already mapped the route three times, even tried a new shortcut I read about last night."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’ve put a lot of preparation into it. Was there a particular moment on the road that’s been on your mind?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah… I was zipping through the packed downtown block when a stray dog bolted out of nowhere. My foot slammed the brake, everything slowed to a crawl, and my hands started shaking like I’d just dropped a tray of freshly folded shirts."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds terrifying. What went through your mind in those seconds?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Time seemed to stretch. I kept hearing my own thoughts screaming, like a siren that wouldn’t quit, telling me I’d failed. I kept replaying the split‑second – what if I’d hit the brakes a beat earlier? What if I’d swerved? The image of the bride’s tears and the poor dog’s eyes just loops in my head."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you’re stuck in a replay that’s magnifying the mistake. Before the dog appeared, what were you assuming about the road and the delivery?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I was convinced I could glide through that block just like I’d done a dozen times before. The dress was the crown jewel of the day, and in my head, getting it there on time meant the whole wedding would run like a perfectly folded sheets‑stack. I felt I had to keep the momentum."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’ve described a strong belief that you’re the calm, reliable driver who never flinches. How does that belief sit with what happened?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "It feels like a lie I’m telling myself. If I’m the steady one, why did I freeze? I’m angry at the dog for popping up, angry at the city for this jammed street, and most of all angry at myself for letting a single second derail the whole plan."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That anger is understandable. Let’s explore the part of you that says the brake‑slam was a protective move. What might you be protecting?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I guess I was trying to keep the gown from getting smashed, but I keep hearing that siren louder than any “good job” voice in my head. It feels like the dog’s life slipped through my fingers and the bride’s smile turned to sobs."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "When you notice that inner siren, what does it tell you about your expectations of speed and success?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’ve always equated moving fast with doing a good job – the faster the route, the more on‑time the delivery, the happier the client. Now that speed turned into a freeze, and every corner feels like a ticking clock that could snap again."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like the link between speed and competence has been shaken. How does that affect the way you plan your routes now?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’m checking the brakes before every turn, writing little check‑lists on a napkin, even pausing at each traffic light to breathe. But the moment I pull up to a corner, my hands start trembling again, like I’m waiting for the next “siren” to blare."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That pause you’ve built in could be a new kind of safety net. What might it look like if you welcomed that pause as a signal rather than a failure?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I guess it could be a reminder that I’m still in control – I chose to slow down, to look, to listen. Still, the image of the bride’s tear‑streaked face and the dog’s scared eyes keeps crashing through my thoughts like a badly folded sheet that won’t smooth out."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "When those images surface, what’s the smallest, most compassionate statement you could offer yourself in that moment?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Maybe… that I did the best I could with the information I had at that second. That I didn’t hit the car, I didn’t crush the gown, I just hit the brakes. It’s a shaky thought, but it feels less like a verdict and more like a note on a checklist."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That’s a solid start. Turning the siren into a “check” rather than a “fail” can give you space to re‑organize your thoughts, just like you organize laundry before the next run."
+      },
+      {
+        "speaker": "Patient",
+        "content": "I can try that. I’ll write “brake applied, dog safe, gown intact” on the back of my delivery log and see if it eases the loop. Still, I’m scared the next corner will feel like the same freeze."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Fear of the next freeze is natural. Let’s think about a concrete step you could take before each corner to ground yourself – maybe a quick breath count, a tactile cue like adjusting the glove, or a mental label like “pause, assess, proceed.” Which feels doable for you?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I like the idea of a breath count. Three slow inhales, three exhales, then I glance at the brakes. It’s simple, and I can practice it while I’m waiting at red lights."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Great. Let’s plan to check in next time you’re on the road and see how that breath‑pause feels. Remember, the siren can become a reminder to breathe, not a verdict on your worth."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Alright, I’ll give it a shot. Thanks for not trying to “put a silver lining” on it, but for actually giving me a tool."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’re welcome, Kayla. I’m here for you as you test this new routine. We’ll keep fine‑tuning it together."
+      }
+    ],
+    "prolific_info": {
+      "uid": "prolific_6980a756443f9300c39a9823",
+      "email": "prolific_6980a756443f9300c39a9823@annotation.local",
+      "displayName": "Unknown",
+      "assignedDialogues": []
+    },
+    "assigned_genre": "workplace & career challenges"
+  },
+  "tePyBFirOO||1": {
+    "situation": "I stormed into the breakroom after a grueling shift, dumped my trash bag, and unleashed a frantic, bitter tirade about my mounting debts and a crumbling relationship, shouting so loudly that the other collectors froze mid‑lunch and stared.",
+    "thought": "I felt a hot knot of shame tighten in my chest, realizing my outburst would brand me as a constant troublemaker and that they'd all roll their eyes at my problems.",
+    "bdi": {
+      "desire": {
+        "content": "I wish that my coworkers respect me and not see me as a drama queen."
+      },
+      "belief": {
+        "content": "I believe that I believe I should keep my problems to myself and stay discreet."
+      },
+      "intention": {
+        "content": "I intend to dump my trash, breathe, and stay calm so I don’t disrupt anyone."
+      }
+    },
+    "cogapp_dims": [
+      {
+        "rank": 1,
+        "appraisal_name": "self_cause"
+      },
+      {
+        "rank": 2,
+        "appraisal_name": "unpredictability_of_consequences"
+      },
+      {
+        "rank": 3,
+        "appraisal_name": "goal_incongruence"
+      },
+      {
+        "rank": 4,
+        "appraisal_name": "norm_violation"
+      },
+      {
+        "rank": 5,
+        "appraisal_name": "self_control"
+      }
+    ],
+    "persona_profile": {
+      "occupation": "Refuse and Recyclable Material Collectors",
+      "gender": "female",
+      "education": "high school",
+      "name": "Michelle",
+      "traits": "You are an introverted and emotionally unstable person. When it comes to dealing with other people, you are often antagonistic. You are always very organized when tackling problems. However, you are very conservative about new things. ",
+      "persona_hub": "A fellow teenager who has overcome similar struggles and offers a listening ear and empathy."
+    },
+    "dialogue_history": [
+      {
+        "speaker": "Therapist",
+        "content": "Good afternoon, Michelle. How are you holding up today?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Hey. I'm okay, I guess. Just tired after a long shift."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "I hear you. Your shifts can be grueling. Anything in particular wear you out tonight?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "We had a lot of garbage to pull, the trucks kept backing up, and the paperwork kept piling. I felt like I was sorting a mountain of stuff that never got smaller."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds exhausting. When you got off the truck, what did you do first?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I went straight to the breakroom. I dumped my bag on the table, slammed it down, and… I started shouting about my rent and the breakup."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That must have been a loud moment. How did the room react when you let it out?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Everyone stopped eating. I could see the supervisor at the doorway, his eyes glued to me. The other collectors just stared."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "What was going through your mind as you heard that silence?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "A hot knot tightened in my chest. I felt ashamed, like I’d just marked myself as the office drama queen. I was terrified they'd remember this forever."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you were worried about how they’d label you after that outburst."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Exactly. I always try to keep my problems to myself. I thought if I just dumped the trash and breathed, nobody would have to deal with my mess."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "So before you walked in, you expected the room to stay quiet, like the noise of your voice would just blend into the background."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah. I imagined they’d keep their heads down, maybe glance, but keep going. Instead, it felt like they were all watching a busted compactor."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "When you notice that contrast—what you hoped would happen versus what actually happened—what does it tell you about what you value at work?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I value being seen as reliable, not as someone who loses control. I want respect, not pity."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "And when that respect feels threatened, you seem to organize your thoughts very carefully, even when you’re upset."
+      },
+      {
+        "speaker": "Patient",
+        "content": "I try to line up everything—rent notices, the texts from my ex—so I can see where the pressure points are. But tonight they all just collapsed into that one scream."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you were trying to manage a buildup of stress, but the outburst turned that pressure into a visible spill."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Right. And now I keep replaying the thud of the bag hitting the concrete. It’s louder than the trucks."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "What does that replay do for you? Does it keep the shame alive, or does it remind you of something else?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Mostly it keeps the shame alive. I keep thinking the supervisor’s narrowed eyes were a verdict, like a judge’s gavel."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "If we look at that moment as just a glance—someone noticing a colleague under pressure—how might that shift the story you’re telling yourself?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Maybe it wouldn’t feel like a punishment. It could be a sign that someone saw I was overloaded."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "And if you saw it that way, what could be a next step that feels safe for you, given you prefer to keep things familiar?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I could try talking to one teammate I trust, just about the rent notice, not the whole breakup. Keep it short, organized."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds like a manageable way to start unloading a little, without opening the whole dumpster at once."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah. I’ll try that tomorrow. At least I won’t have the whole crew’s heads buzzing like a broken compactor."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "I’m glad you have a plan. We can check in next time about how that felt, and whether the knot loosens a bit."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Thanks. I appreciate it."
+      }
+    ],
+    "prolific_info": {
+      "uid": "prolific_5ea824f580b9ef228f589930",
+      "email": "prolific_5ea824f580b9ef228f589930@annotation.local",
+      "displayName": "Unknown",
+      "assignedDialogues": []
+    },
+    "assigned_genre": "workplace & career challenges"
+  },
+  "78cYHCtaO4||1": {
+    "situation": "I was asked to compose the closing score for a new adaptation of *The Boy in the Striped Pajamas*, and, careless as always, I overrode the director’s request for a hopeful finish and wrote a crushing, mournful crescendo that made the final scene unbearably tragic.",
+    "thought": "I can’t stop replaying the image of those kids sobbing as the music swelled, and the shame of having turned an innocent story into pure misery claws at me.",
+    "bdi": {
+      "desire": {
+        "content": "I wish that the final scene ends with a gentle, hopeful lift."
+      },
+      "belief": {
+        "content": "I believe that I am disciplined enough to keep the story’s innocence safe."
+      },
+      "intention": {
+        "content": "I intend to write a soft piano line that comforts without drowning the pain."
+      }
+    },
+    "cogapp_dims": [
+      {
+        "rank": 1,
+        "appraisal_name": "self_cause"
+      },
+      {
+        "rank": 2,
+        "appraisal_name": "goal_incongruence"
+      },
+      {
+        "rank": 3,
+        "appraisal_name": "unfamiliarity"
+      },
+      {
+        "rank": 4,
+        "appraisal_name": "unpredictability_of_event"
+      },
+      {
+        "rank": 5,
+        "appraisal_name": "coping_demand"
+      }
+    ],
+    "persona_profile": {
+      "occupation": "Musicians and Singers",
+      "gender": "female",
+      "education": "high school",
+      "name": "Tiffany",
+      "traits": "You are an introverted and emotionally stable person. When it comes to dealing with other people, you are often antagonistic. You are always very careless when tackling problems. However, you are very open-minded about new things. ",
+      "persona_hub": "A rom-com lover who usually finds children annoying in films."
+    },
+    "dialogue_history": [
+      {
+        "speaker": "Therapist",
+        "content": "Good afternoon, Tiffany. It’s nice to see you again. How have you been since our last session?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Hey. I’ve been alright, just busy with a film score. Nothing too wild."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds interesting. You mentioned a film – what kind of project is it?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "It’s an adaptation of *The Boy in the Striped Pajamas*. The director asked me to write the music for the very last scene."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That’s a heavy story to end. What were you hoping the music would bring to that moment?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I wanted something light, a soft piano line that could lift the mood a little – a quiet promise that maybe, after all that horror, there’s still a sliver of hope."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "So you were aiming for a gentle, hopeful finish that would protect the innocence of those kids?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Exactly. I picture a delicate melody floating over the darkness, like a thin blanket that comforts without covering up the pain."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds like a thoughtful intention. How did the composition process go?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’m usually careless when I’m in the zone, and I ended up layering a huge, mournful crescendo instead. It turned the ending into something crushingly tragic."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That’s a big shift from what you described. What’s been running through your mind since you heard it?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I can’t stop replaying the image of those kids sobbing while the music swells. It feels like I’ve taken an innocent story and turned it into pure misery. The shame just sits there."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like the weight of that image is very heavy. How has the director responded?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "He stared at me like the music was a crime. I keep hearing his cold look in my head, and the chord keeps echoing every time I touch that black key."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’re describing a lot of self‑criticism. Earlier you said you try to protect the story’s emotional boundaries. How does this experience fit with that belief?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I always thought I was disciplined enough to keep the story safe. This feels like I broke my own rule – like I let my own careless streak ruin something that mattered."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you see a mismatch between your goal – a hopeful lift – and what actually happened, and that gap is hurting you."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah, it’s like I promised the audience a gentle breath of peace and gave them a tidal wave instead. The consequence feels unbearable."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’ve identified that you had control over the notes you chose, yet the result violated your own standards. What might be a next step that feels realistic for you?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I guess I could talk to the director, see if we can reshape the ending without erasing the sadness. Maybe keep a softer thread in there and let the heavy part sit as a reminder, not the whole piece."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds like a balanced approach – honoring both the grief and the hope you originally intended. How does that option feel right now?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "It feels less like a failure and more like a chance to fix the balance. I’m still nervous about his reaction, but I think I can handle the conversation."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "I’m glad you can see a path forward. We can explore how to prepare for that talk in our next session if you’d like."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah, that would be good. Thanks."
+      }
+    ],
+    "prolific_info": {
+      "uid": "prolific_5acb92e9e1099600016ad073",
+      "email": "prolific_5acb92e9e1099600016ad073@annotation.local",
+      "displayName": "Unknown",
+      "assignedDialogues": []
+    },
+    "assigned_genre": "workplace & career challenges"
+  },
+  "OtIpzmdwJ5||1": {
+    "situation": "I bluntly warned my best friend—my coworker—about the toxic environment at the new branch and insisted she would never belong there, then I deliberately avoided introducing her to any of our contacts when she asked for help before her move next week.",
+    "thought": "I cringe at my selfish cruelty, realizing my careless, conservative stance forced her to flee instead of staying. A wave of guilt swells inside me for not making her feel welcome.",
+    "bdi": {
+      "belief": {
+        "content": "I believe that true friendship means I should protect my loved ones from environments I judge as harmful.."
+      },
+      "desire": {
+        "content": "I wish to shield my best friend from emotional or professional harm in what I perceive as a toxic workplace."
+      },
+      "intention": {
+        "content": "I intend to discourage her from joining the new branch by giving a blunt warning and then deliberately withholding introductions to contacts."
+      }
+    },
+    "cogapp_dims": [
+      {
+        "rank": 1,
+        "appraisal_name": "goal_incongruence"
+      },
+      {
+        "rank": 2,
+        "appraisal_name": "self_control"
+      },
+      {
+        "rank": 3,
+        "appraisal_name": "norm_violation"
+      },
+      {
+        "rank": 4,
+        "appraisal_name": "self_cause"
+      },
+      {
+        "rank": 5,
+        "appraisal_name": "coping_demand"
+      }
+    ],
+    "persona_profile": {
+      "occupation": "colleague",
+      "gender": "female",
+      "education": "master's",
+      "name": "Cassandra",
+      "traits": "You are an extroverted and emotionally stable person. When it comes to dealing with other people, you are often agreeable. You are always very careless when tackling problems. Moreover, you are very conservative about new things. ",
+      "persona_hub": "A colleague who shares tips and tricks on navigating everyday life in the new country."
+    },
+    "dialogue_history": [
+      {
+        "speaker": "Therapist",
+        "content": "Good morning, Cassandra. It’s nice to see you. How have you been since we last spoke?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Morning! I’ve been okay—busy with the usual project deadlines and a bit of a rainy weekend, but nothing too dramatic."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Sounds like a full schedule. Anything in particular that’s been on your mind lately?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Well, a coworker who’s also my best friend asked me about the new branch that’s opening next month. I told her straight away that the place feels… toxic, and I warned her that she probably wouldn’t fit in there."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That’s quite a direct warning. How did she respond at the time?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "She seemed a little taken aback but said she’d think about it. Then, when she asked me to introduce her to a few of our contacts over there, I just… didn’t follow through. I figured if I kept her from making connections, she’d stay away."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "I hear you saying you intentionally held back the introductions. What was going through your mind when you made that choice?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Honestly, I thought I was protecting her. I’ve always believed it’s better to steer friends away from places that might drain them. So I tried to keep the path closed—maybe that was too careless on my part."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you were acting out of concern, but now you’re noticing a different feeling about it. What does that feel like for you?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I keep cringing at how selfish I was. A wave of guilt rolls over me every time I replay her voicemail from this morning—she sounded lost, like she’s already navigating that place alone."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That guilt must be heavy. When you hear her voice sounding lost, what thoughts accompany that image?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I picture her walking down those bright, fluorescent corridors, feeling drained. I keep wondering if my warning—plus my silence—pushed her into that very scenario I tried to avoid."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’re noticing a mismatch between your intention to protect and the outcome you see unfolding. How does that tension sit with your own values?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’ve always tried to look out for my friends, but I also tend to be pretty conservative about new situations. Maybe I let that caution turn into a sort of gatekeeping, and now it feels like I’ve violated my own standards of being supportive."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you’re grappling with a sense of responsibility for what might happen next. If you could imagine a different way to approach her situation, what might that look like?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I can see myself sending a brief note to a senior who runs the mentorship program at the new branch—just a friendly coffee invitation. That could give her a foothold without overwhelming her, but every time I think about it, I feel like I’m opening a floodgate."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Let’s explore that image of a floodgate. What’s the underlying fear that makes a simple introduction feel so risky?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’m afraid that even a small connection could pull her deeper into the ‘fluorescent maze’ I’ve imagined—like a quick spark that ignites a bigger blaze. It’s paradoxical because I want her to feel welcome but also want to keep her safe."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’re holding two opposing concerns: the desire to protect and the wish to support. How might you honor both without feeling you’re forcing her into a hostile environment?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Maybe I could frame it as offering a choice—something like, ‘Hey, there’s a mentorship coffee session next week if you’d like a quick intro. No pressure at all.’ That way the door is ajar, but she decides whether to step through."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds like a balanced approach, giving her agency while still extending a hand. How does the idea of offering a choice feel for you right now?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "It feels less like I’m forcing a path and more like I’m providing a gentle nudge. The guilt is still there, but the knot in my chest loosens a bit when I think of it as a supportive option rather than a trap."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It’s understandable for the guilt to linger; you care deeply about your friend's wellbeing. What small step could you take today to move toward that gentle nudge?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’ll draft a short, friendly email to the senior mentor, copy my friend, and say something like, ‘If you’re interested, there’s a coffee chat next Thursday—happy to set it up.’ Then I’ll send it and let her decide."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds like a concrete, compassionate plan. How do you anticipate feeling after you send the email?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I think there’ll still be a flutter of anxiety, but also a sense of relief that I’m not keeping her completely in the dark. I can accept that I can’t control everything, but I can at least offer a doorway."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It’s a meaningful shift—from a protective barrier to an optional gateway. As you move forward, remember to be gentle with yourself about the past choices; you acted from a place of concern, even if the method didn’t turn out as intended."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Thank you. I’ll try to keep that in mind and focus on what I can do now rather than replaying everything over and over."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’re welcome, Cassandra. I look forward to hearing how the email goes next time we meet. Take care until then."
+      }
+    ],
+    "prolific_info": {
+      "uid": "INTERNAL"
+    },
+    "assigned_genre": "family, friendship & social conflict"
+  },
+  "CCsmBy7eoC||1": {
+    "situation": "I stayed at the rooftop party, ignoring my mom’s frantic text about moving the heavy armoire that was blocking the driveway, and I kept dancing while she and Dad strained to lift it alone. By the time I finally left, Dad had slipped and bruised his back, and Mom was left sobbing over the stuck furniture.",
+    "thought": "I’m seething with shame for abandoning my own parents to a painful ordeal just to chase a party high, and I can’t shake the fear that they’ll never trust me again. I deserve to be called selfish, and this guilt is crushing me.",
+    "bdi": {
+      "desire": {
+        "content": "I wish that I wish I could enjoy the party and still help Mom and Dad afterwards"
+      },
+      "belief": {
+        "content": "I believe that I’m the guy who jumps in when my family needs help."
+      },
+      "intention": {
+        "content": "I intend to finish the song, then dash home and help lift the armoire."
+      }
+    },
+    "cogapp_dims": [
+      {
+        "rank": 1,
+        "appraisal_name": "unpredictability_of_event"
+      },
+      {
+        "rank": 2,
+        "appraisal_name": "unpredictability_of_consequences"
+      },
+      {
+        "rank": 3,
+        "appraisal_name": "self_cause"
+      },
+      {
+        "rank": 4,
+        "appraisal_name": "goal_incongruence"
+      },
+      {
+        "rank": 5,
+        "appraisal_name": "coping_demand"
+      }
+    ],
+    "persona_profile": {
+      "occupation": "Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",
+      "gender": "male",
+      "education": "high school",
+      "name": "Alex",
+      "traits": "You are an extroverted and emotionally stable person. When it comes to dealing with other people, you are often antagonistic. You are always very careless when tackling problems. However, you are very open-minded about new things. ",
+      "persona_hub": "An elderly resident who relies on the younger sibling's assistance to set up and maintain their smart home devices."
+    },
+    "dialogue_history": [
+      {
+        "speaker": "Patient",
+        "content": "Hey, Dr. Patel. Good morning – hope you’re doing okay."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Good morning, Alex. I’m well, thank you. How are you feeling today?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Honestly, a little scraped up inside. I got home late last night and the whole thing’s still buzzing in my head."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Sounds like something’s weighing on you. Would you like to tell me what happened?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "We had that rooftop party – you know, the one with the neon lights and the bass that shakes the floor. I was there because I needed to shake off the pile of invoices and the boss’s deadline yelling. My phone buzzed a couple of times, but I just kept dancing."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You mentioned the phone buzzing. What were the messages about?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Mom sent a frantic text about an armoire that was stuck in the driveway. Apparently it was blocking the car and she and Dad were trying to lift it on their own."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "And while you were on the dance floor, they were trying to move it?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah. I told myself I could finish the song, dash home, and give them a hand. The music kept pulling me in, so I didn’t even glance at the phone again until the bass dropped and I finally saw the words. By the time I made it to the door, Dad had slipped, bruised his back, and Mom was crying over the stuck furniture."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds painful to watch. What’s coming up for you when you think about that night?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I feel this knot in my chest, like a busted speaker. I keep replaying the moment Dad winced and Mom’s tears, and I’m stuck wondering if they’ll ever trust me to show up when it matters."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you’re carrying a lot of shame about how things turned out. How does that fit with how you see yourself as a son?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’ve always thought I’m the guy who jumps in when the family needs help. I was trying to prove I could handle the chaos – the party, the work, the house – all at once, like I’m built for pressure."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You described yourself as built for pressure. Do you feel that expectation drove you to stay at the party longer?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Exactly. I wanted to enjoy the night, but I also wanted to be the reliable son. I convinced myself I could be a “superhero dancer” and still lift that heavy thing, like it was just another file I could shuffle."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That’s a lot to hold. It sounds like the party was a way to get a breather from work stress, yet the guilt now is pulling you back. What does that guilt feel like right now?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "It’s a crushing weight, like the neon lights are still flashing in my head. I can’t shake the thought that I chose a beat over my parents’ pain."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "When you notice that weight, what’s one small thing you could do that might ease it, even a little?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I could call Mom, say I’m sorry, ask how Dad’s back feels, maybe bring over some soup. It feels like a tiny step, but it might cut through the loop."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds like a concrete plan. How does it feel just thinking about picking up the phone?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "My chest tightens, like the bass is still thumping, but there’s also a strange relief – like maybe I can change the track."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Changing the track can be powerful. When you’re ready, you can dial Mom, share how you feel, and ask what they need. Even a brief hello can start a new rhythm."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Okay, I’m going to do it now. Thanks."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’re welcome, Alex. I’ll check in next time to hear how the call went."
+      }
+    ],
+    "prolific_info": {
+      "uid": "prolific_65107641138d7e50e2a290d0",
+      "email": "prolific_65107641138d7e50e2a290d0@annotation.local",
+      "displayName": "Unknown",
+      "assignedDialogues": []
+    },
+    "assigned_genre": "family, friendship & social conflict"
+  },
+  "RK5JXbaGPX||3": {
+    "situation": "I stared at the stock ticker on my phone and sprinted across the intersection, dismissing the new flashing pedestrian signal as a pointless gimmick. A black SUV screeched to a halt inches from me, horn blaring.",
+    "thought": "I cursed my own carelessness for endangering both me and the driver, realizing the crosswalk's supposed safety was nothing but an illusion.",
+    "bdi": {
+      "desire": {
+        "content": "I wish that I could catch the last market spike without losing any seconds."
+      },
+      "belief": {
+        "content": "I believe that the flashing walk signal is just a gimmick, not worth slowing down."
+      },
+      "intention": {
+        "content": "I intend to sprint across the intersection, ignoring the flashing signal, to watch ticker."
+      }
+    },
+    "cogapp_dims": [
+      {
+        "rank": 1,
+        "appraisal_name": "self_control"
+      },
+      {
+        "rank": 2,
+        "appraisal_name": "goal_incongruence"
+      },
+      {
+        "rank": 3,
+        "appraisal_name": "suddenness"
+      },
+      {
+        "rank": 4,
+        "appraisal_name": "unpredictability_of_consequences"
+      },
+      {
+        "rank": 5,
+        "appraisal_name": "unpredictability_of_event"
+      }
+    ],
+    "persona_profile": {
+      "occupation": "analyst",
+      "gender": "female",
+      "education": "bachelor's",
+      "name": "Rachel",
+      "traits": "You are an extroverted and emotionally unstable person. When it comes to dealing with other people, you are often agreeable. You are always very careless when tackling problems. Moreover, you are very conservative about new things. ",
+      "persona_hub": "一名在交通安全研究中心工作的分析师。."
+    },
+    "dialogue_history": [
+      {
+        "speaker": "Therapist",
+        "content": "Good morning, Rachel. It’s nice to see you. How are you feeling today?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Hey! I’m alright… I guess. Just juggling a bunch of numbers and a coffee, you know?"
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Sounds like a full plate. Anything in particular that’s been on your mind lately?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Well, the market’s been a roller‑coaster. I’ve been glued to the Nasdaq ticker all morning, trying to catch every little spike before the bell."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That can be exhausting. Have you had any moments that felt especially stressful or urgent while you were watching the numbers?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah… there was this one instant. I was standing at the corner, phone in hand, watching the index jump at 3:58 pm. I saw the new flashing walk signal, but I just... sprinted across before it even finished blinking. A black SUV slammed on its brakes right next to me."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds intense. What went through your mind about the flashing light right before you stepped off the curb?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Honestly, I thought it was just a gimmick—something the city added for show. I was so focused on the ticker that I figured I could make up the lost seconds by running. I didn’t want anything to slow me down while the market was spiking."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you were prioritizing the trade over the safety cue. How did you feel moments after the SUV stopped so close to you?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I was furious with myself. I kept replaying the near miss, hearing the brakes squeal in my head, and then the phone buzzing with the next number surge. I felt reckless and scared that I’d let my need to catch that 0.5 % gain put me in danger."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It’s understandable to feel that mix of anger and fear. When you think about that moment now, what does it tell you about how you view control and risk?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I realize I was pretending I was in total control—like I could outrun any danger, just like I chase a profit. But the reality hit hard: my own carelessness almost caused a crash."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "So the experience challenged the belief that you’re always alert and in control when you’re out in public. How does that clash with the goal you had in that instant?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "My goal was to lock in that last surge before the market closed. The flash signal felt irrelevant to that goal, but the sudden stop reminded me that my safety was a non‑negotiable part of any win."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you’re noticing a tension between the urge to move fast for a trade and the need to respect the signals that keep us safe. What might it look like to give yourself a brief pause without feeling you’ve missed the profit?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I guess I could treat the pause like a stop‑loss order—protecting my position before I go all‑in. Still, it feels scary; the ticker keeps buzzing, and I worry I’ll lose the chance."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That fear is natural, especially when you’ve been using speed as a measure of success. If you could reframe the flashing light as a “risk‑management tool” instead of a gimmick, how might that change the way you act in the moment?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Maybe I’d see it as a reminder to check my assumptions before I dive in—like double‑checking a trade before hitting submit. It could keep me from making a hasty move that endangers me."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Exactly. By acknowledging the signal as part of your safety net, you give yourself space to make more deliberate choices, both on the trading floor and on the street."
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’m going to try picturing that next time the market spikes—first pause, then act. It won’t be easy, but I don’t want another near‑miss to replay in my head."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds like a solid plan. We can explore strategies for that pause in our next session and see how it feels in practice."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Thanks. I feel a bit lighter already."
+      }
+    ],
+    "prolific_info": {
+      "uid": "prolific_63f93b47bb0c1a1aca131480",
+      "email": "prolific_63f93b47bb0c1a1aca131480@annotation.local",
+      "displayName": "Unknown",
+      "assignedDialogues": []
+    },
+    "assigned_genre": "workplace & career challenges"
+  },
+  "bpODakWhWC||2": {
+    "situation": "I spent the entire weekend perfecting the bride’s centerpiece for the city’s most prestigious wedding. The next morning my manager handed the bonus and promotion to a junior designer who arrived late.",
+    "thought": "I feel invisible, as if all my effort is meaningless, and the jealousy sears through me, convincing me I’ll never measure up.",
+    "bdi": {
+      "desire": {
+        "content": "I wish that my extra effort earns the badge of promotion and bonus."
+      },
+      "belief": {
+        "content": "I believe that if I make everything just right, people will see me as dependable."
+      },
+      "intention": {
+        "content": "I intend to stay late and perfect the centerpiece so it’s just right."
+      }
+    },
+    "cogapp_dims": [
+      {
+        "rank": 1,
+        "appraisal_name": "goal_incongruence"
+      },
+      {
+        "rank": 2,
+        "appraisal_name": "self_control"
+      },
+      {
+        "rank": 3,
+        "appraisal_name": "unpredictability_of_event"
+      },
+      {
+        "rank": 4,
+        "appraisal_name": "self_cause"
+      },
+      {
+        "rank": 5,
+        "appraisal_name": "norm_violation"
+      }
+    ],
+    "persona_profile": {
+      "occupation": "Floral Designers",
+      "gender": "male",
+      "education": "high school",
+      "name": "Devin",
+      "traits": "You are an extroverted and emotionally stable person. When it comes to dealing with other people, you are often agreeable. You are always very careless when tackling problems. Moreover, you are very conservative about new things. ",
+      "persona_hub": "A competitive coworker who views workplace success as a zero-sum game."
+    },
+    "dialogue_history": [
+      {
+        "speaker": "Patient",
+        "content": "Hey, good afternoon. How's your day going?"
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Good afternoon, Devin. It's been busy but fine. How about you? How was your weekend?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "It was a long one. I was in the shop all Saturday and Sunday, putting together the centerpiece for the wedding downtown."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Sounds like you were really into that project. What was it like working on it?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I wanted everything just right—the lilies, the peonies, the color flow. I stayed late Sunday night checking each petal. Then on Monday the manager handed the bonus and promotion to the junior designer who showed up late."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That must have felt surprising. What went through your mind when you saw that?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I felt like I was still wiping foam off my gloves and the paper slipped across the desk. It sort of hit me in the chest, like I’d been invisible the whole time."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "When you say “invisible,” what does that mean for you in your work?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’ve always tried to be the dependable one, the guy who never messes up a bouquet. It’s like all that extra time I put in just faded away."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You mentioned being dependable. What would it mean for you if people saw that side of you more clearly?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I guess I’d feel respected, maybe finally be seen as a designer, not just the hands‑on florist. That promotion felt like the badge that could prove it."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like the badge was tied to a larger picture you’ve been painting for yourself. How did the junior’s arrival change that picture?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Seeing him get the envelope while I was still cleaning up made me wonder if the extra shifts ever count. It’s hard not to feel jealous."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Jealousy can be a strong signal. What does it tell you about what matters to you right now?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "It tells me I care a lot about the acknowledgment, about having my work stand out. I guess I’m scared that without that, I’ll just keep blending into the background."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That fear of blending in—does it connect to any standards you hold for yourself or for how a florist should be recognized?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah, I’ve always believed good work should get clear credit. If it doesn’t, it feels like the whole garden I tend is being ignored."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "What would it look like for you to feel that your garden is being noticed, even without a formal badge?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Maybe hearing a client rave about the arrangement, or the bride smiling when she sees the centerpiece. Those moments feel real."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Those moments sound like they could become your own kind of recognition. How might you invite more of those into your day?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I could ask the brides for feedback, maybe share photos with the team. I’ve been careless about asking, thinking the work would speak for itself."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That’s a thoughtful idea. How does it feel to consider taking that step, even if it feels a little new?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’m a bit nervous because I usually stick to the old ways, but I think it might help me feel less invisible."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you’re open to trying something different, yet still holding onto what feels safe. We can explore how to balance that."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah, I’m willing to give it a shot. At least I’ll know I tried, instead of just watching another envelope slide by."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Great. Let’s talk about specific actions you can take before our next session. How does that sound?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Sounds good. Thanks."
+      }
+    ],
+    "prolific_info": {
+      "uid": "prolific_633485c40e46cf7e9a2f2ca1",
+      "email": "prolific_633485c40e46cf7e9a2f2ca1@annotation.local",
+      "displayName": "Unknown",
+      "assignedDialogues": []
+    },
+    "assigned_genre": "workplace & career challenges"
+  },
+  "VofFMD7wRN||1": {
+    "situation": "I carelessly tossed a sealed folder of confidential merger documents into a trash can behind my office, and a delivery driver backed his cart into it, sending the papers scattering across the lobby floor. The shredded sheets revealed the names of our biggest clients to anyone passing by.",
+    "thought": "I feel a wave of dread and shame, realizing my carelessness could jeopardize a multi‑billion‑dollar deal and betray the trust of my company's partners.",
+    "bdi": {
+      "desire": {
+        "content": "I wish that our partners' information stays private and the merger stays on track."
+      },
+      "belief": {
+        "content": "I believe that I’m thorough in protecting sealed folders and keeping partner info safe."
+      },
+      "intention": {
+        "content": "I intend to toss the sealed folder into the trash in a rush, assuming security."
+      }
+    },
+    "cogapp_dims": [
+      {
+        "rank": 1,
+        "appraisal_name": "self_cause"
+      },
+      {
+        "rank": 2,
+        "appraisal_name": "unpredictability_of_event"
+      },
+      {
+        "rank": 3,
+        "appraisal_name": "goal_incongruence"
+      },
+      {
+        "rank": 4,
+        "appraisal_name": "unacceptable_consequences"
+      },
+      {
+        "rank": 5,
+        "appraisal_name": "coping_demand"
+      }
+    ],
+    "persona_profile": {
+      "occupation": "corporate executive",
+      "gender": "female",
+      "education": "bachelor's",
+      "name": "Ashley",
+      "traits": "You are an extroverted and emotionally stable person. When it comes to dealing with other people, you are often agreeable. You are always very careless when tackling problems. However, you are very open-minded about new things. ",
+      "persona_hub": "A stressed-out corporate executive who accidentally left sensitive documents on the street after a coffee spill."
+    },
+    "dialogue_history": [
+      {
+        "speaker": "Therapist",
+        "content": "Good morning, Ashley. It’s nice to see you. How are you feeling today?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Morning! I’m doing okay, thanks for asking. It’s been a whirlwind week at the office – lots of meetings, a few late nights, but I’m still managing to keep the energy up."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Sounds like you’ve been juggling a lot. Anything in particular that’s been on your mind lately, either at work or outside of it?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Actually, yes. Yesterday I was wrapping up the final paperwork for the merger we’ve been driving toward all quarter. I had a sealed folder with the client list – the kind we keep under lock and key until the official shred‑day. In a rush, I tossed it into the trash behind my office. A delivery driver backed his cart into the bin, and the folder ripped open, scattering the sheets across the lobby. I could see the names of our biggest partners on the floor, and it hit me instantly that anyone could have picked them up."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds incredibly unsettling. What was going through your mind in that moment?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "A wave of dread washed over me – I felt my heart race and a deep, hot shame settle in. I kept thinking about the multi‑billion‑dollar deal hanging in the balance and how this slip could betray the trust our partners have placed in us."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It’s understandable that such a breach would trigger those feelings, especially given how much you’ve been counting on this merger to succeed. When you think about the next steps, what concerns are coming up most strongly for you?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’m scared the board will see this as a massive lapse, that the clients will call us out, and that the whole deal could unravel before Friday. I keep replaying the moment the cart hit the bin, hearing the rustle of paper, and wondering how I can explain this without looking like I’ve jeopardized months of work."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Let’s explore how you might frame the situation to the board in a way that acknowledges what happened but also highlights the swift actions you’ve already taken. What have you done since the papers hit the floor?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I immediately gathered the remaining pages, ran them through a secure shredder, and called security to sweep the lobby. I’ve also briefed our legal and PR teams so they’re on standby."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That’s a solid set of first‑response steps. When you present to the board, a concise structure could help keep the focus on control rather than fault. How do you feel about opening with a clear statement of the incident followed by the actions you’ve taken?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I think that could work. Something like, “Earlier today an unexpected document exposure occurred in the lobby. We secured all remaining files within minutes, engaged legal and PR, and activated our response protocol.” Then I’d move into the remediation steps."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Exactly. Emphasizing the rapid containment signals competence. After that opening, you could outline the specific safeguards you’re putting in place – perhaps a dedicated confidential disposal process and stricter access controls for disposal areas."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Right, I’ll add that we’re implementing a new confidential‑disposal protocol and restricting who can use the office trash bins. I’ll propose a brief 30‑minute sync tomorrow morning with the board, legal, and PR to walk through these steps and confirm the merger timeline stays on track."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds both decisive and transparent. Framing the meeting as a proactive check reinforces that you’re managing risk, not just reacting to a mistake."
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’m still nervous about the board’s reaction, though. I don’t want to come across as admitting a huge failure."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It’s natural to feel that way. You might soften the language by focusing on the “unexpected exposure” and the “immediate containment,” rather than the error itself. For example, start with, “An unexpected exposure was identified; we secured all files within minutes and activated our full response protocol.” This keeps the tone forward‑looking."
+      },
+      {
+        "speaker": "Patient",
+        "content": "That phrasing feels more confident. I’ll open with, “This morning an unexpected document exposure was identified; we immediately locked down all files, triggered our response plan, and engaged legal and PR.” Then I’ll move into the remediation details."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Great. Closing with a reaffirmation of the merger’s status can leave a positive impression: “We’ve mitigated the exposure, reinforced our safeguards, and remain fully on schedule to close the merger as planned.”"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Perfect. I’ll use that as my closing line. Thanks for helping me shape this. I feel more prepared to face the board now."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’re welcome, Ashley. You’ve already demonstrated strong leadership by taking swift action and now you’ve crafted a clear communication plan. Trust that competence will come through in the meeting. Let’s check in after you’ve delivered the brief to see how it went and what you’re feeling afterwards."
+      }
+    ],
+    "prolific_info": {
+      "uid": "prolific_5fb281433a31c686f0ec3ecb",
+      "email": "prolific_5fb281433a31c686f0ec3ecb@annotation.local",
+      "displayName": "Unknown",
+      "assignedDialogues": []
+    },
+    "assigned_genre": "workplace & career challenges"
+  },
+  "kd5Ym9f3IM||2": {
+    "situation": "I left my two kids alone in the bedroom while I fumbled with the fire station’s overtime paperwork, and a masked intruder battered our front door just as I slammed the last report shut. I grabbed my fire‑axe and shouted at the man, but froze, watching my son tremble in the doorway.",
+    "thought": "I am furious with my own carelessness, ashamed that my neglect left my son facing a violent stranger alone. The dread that I could have let him die gnaws at me like a relentless blaze.",
+    "bdi": {
+      "belief": {
+        "content": "I believe that my identity as a firefighter and as a father requires me to be an strong protector who can decisively handle any threat."
+      },
+      "desire": {
+        "content": "I wish to keep my children completely safe at all times, maintaining control over both domestic routines and external dangers."
+      },
+      "intention": {
+        "content": "I intend to quickly finish my overtime log so I can secure the house and be fully present with my kids."
+      }
+    },
+    "cogapp_dims": [
+      {
+        "rank": 1,
+        "appraisal_name": "goal_incongruence"
+      },
+      {
+        "rank": 2,
+        "appraisal_name": "self_cause"
+      },
+      {
+        "rank": 3,
+        "appraisal_name": "unpredictability_of_consequences"
+      },
+      {
+        "rank": 4,
+        "appraisal_name": "norm_violation"
+      },
+      {
+        "rank": 5,
+        "appraisal_name": "coping_demand"
+      }
+    ],
+    "persona_profile": {
+      "occupation": "firefighter",
+      "gender": "male",
+      "education": "high school",
+      "name": "George",
+      "traits": "You are an introverted and emotionally stable person. When it comes to dealing with other people, you are often antagonistic. You are always very careless when tackling problems. However, you are very open-minded about new things. ",
+      "persona_hub": "A retired firefighter sharing first-hand experience about the importance of fire safety at home."
+    },
+    "dialogue_history": [
+      {
+        "speaker": "Therapist",
+        "content": "Good afternoon, George. How are you holding up after today’s shift?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Hey. It’s been a long one. The firehouse kept me late again, so I’m finally home."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "I hear you. When you got home, what was the evening looking like for you and the kids?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "My two kids were already in their room. I dropped my gear, opened the tablet, and started slogging through the overtime log. I told myself I’d finish quick, lock the doors, and be back with them in a minute."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Did anything happen while you were working on that paperwork?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah. I heard a hard bang on the front door, then another, louder one. A masked guy was pounding at it. I grabbed my fire‑axe, but I just stood there. My son was in the doorway, his eyes wide, shaking. I felt my throat clamp and the axe felt like a stone."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds terrifying. When you were holding the axe and hearing your son’s breath, what thoughts were running through your mind?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I was furious with myself. I kept thinking I was careless, that I could have let him die. The fear gnawed at me like a fire that won’t go out."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You sound like you carry a strong idea of yourself as the protector. What were you hoping would happen when you grabbed the axe?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I told myself a firefighter can handle any emergency, even a piece of paperwork. I thought if I swung hard enough the intruder would back off, and my kids would be safe. That belief fell apart the second the door kept pounding."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It’s painful when the image we hold of ourselves cracks. You mentioned the paperwork—what did finishing those reports mean to you in that moment?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "The tablet was flashing red numbers. I kept thinking, ‘Just a few more lines and I can lock the door, get a breather.’ I wanted that tiny window of control, like a firebreak."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "So the log felt like a timer that could buy you seconds. When the door kept beating, how did that affect the way you felt about the axe in your hands?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "The axe turned heavy, like lead. My hands were shaking. I wanted to swing, but my body locked up. I could hear my son’s breath hitch with each thud."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That freeze response is the brain’s way of trying to protect us, even if it feels like a failure. What does it feel like now when you picture that night?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I keep replaying the red numbers flashing faster, the door pounding like a drum, the weight of the axe dragging. My throat tightens every time I think about it. I wonder if I should have just slammed the door instead of holding the metal."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’re stuck on the ‘what‑if.’ It’s natural to replay moments that hurt. What does that replay tell you about what matters most to you?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "It tells me I care a hell of a lot about keeping my kids safe. The thought of admitting I froze feels like a crack in my own armor."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Feeling that crack can be frightening, but it also shows you care enough to notice it. If you look at that freeze as a brief pause that bought seconds for your son, does it shift how you see yourself in that instant?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Maybe. Instead of a total failure, the pause was a tiny shield. Still, the image of my son’s breath catching on each bang haunts me."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Holding that image is painful, yet you’ve also shown you can grab the axe despite the fear. That’s a sign of the fierce love you have for them."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah, I guess. The door kept pounding like a gunshot in my head, and the red numbers kept counting down. I can’t shake the knot in my throat each time."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "When that knot tightens, can you try naming the feeling instead of the story? What’s in that knot right now?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "It’s shame, mixed with rage at myself for being careless."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Those are powerful emotions. Acknowledging them can let the fire burn a little less hot. How might you speak to that younger version of yourself who wanted to be the unstoppable protector?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’d tell him it’s okay to be human, that protecting doesn’t mean never making a mistake."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds like a compassionate step forward. Let’s keep that in mind as we work through the rest of the night’s memories."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Okay, I’m done. I don’t think this is helping right now."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "I hear you, George. We can pause here and pick up whenever you feel ready."
+      }
+    ],
+    "prolific_info": {
+      "uid": "INTERNAL"
+    },
+    "assigned_genre": "grief, loss & trauma"
+  },
+  "w4lzqSfz77||1": {
+    "situation": "I left the iron on in the hallway while balancing the cash register, and the stray spark ignited a blaze that consumed our family home of twenty years.",
+    "thought": "I am suffocated by shame, believing I have shattered my family’s legacy and that even Paradise has turned its back on us.",
+    "bdi": {
+      "desire": {
+        "content": "I wish that our home stays safe while I keep the line moving."
+      },
+      "belief": {
+        "content": "I believe that I am the careful, dependable guard who keeps everything balanced."
+      },
+      "intention": {
+        "content": "I intend to finish the till, then turn off the iron before leaving."
+      }
+    },
+    "cogapp_dims": [
+      {
+        "rank": 1,
+        "appraisal_name": "unpredictability_of_event"
+      },
+      {
+        "rank": 2,
+        "appraisal_name": "self_cause"
+      },
+      {
+        "rank": 3,
+        "appraisal_name": "coping_demand"
+      },
+      {
+        "rank": 4,
+        "appraisal_name": "unacceptable_consequences"
+      },
+      {
+        "rank": 5,
+        "appraisal_name": "goal_incongruence"
+      }
+    ],
+    "persona_profile": {
+      "occupation": "Cashiers",
+      "gender": "female",
+      "education": "high school",
+      "name": "Catherine",
+      "traits": "You are an introverted and emotionally unstable person. When it comes to dealing with other people, you are often agreeable. You are always very organized when tackling problems. Further, you are very open-minded about new things. ",
+      "persona_hub": "a resilient community member from Paradise, California who lost their home in the Camp Fire."
+    },
+    "dialogue_history": [
+      {
+        "speaker": "Therapist",
+        "content": "Good morning, Catherine. It’s nice to see you again. How are you holding up today?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Morning. I’m… okay, I guess. It’s a little hard to sit still, but I’m here."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "I’m glad you came. Is there anything in particular you’d like to talk about today?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "Well… at work yesterday the line was getting long, the manager was on my back about the till, and I was trying to keep everything balanced."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds stressful. When the register is busy, it can feel like you have to keep all the plates spinning."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Exactly. While I was counting change I noticed the iron I keep in the hallway was still on. I thought I could finish the queue and turn it off later."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You were juggling the register and the iron at the same time. What went through your mind when you heard that little crackle?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I heard a faint spark, barely louder than the register beep. I told myself it would be fine, that I’d shut it off in a minute."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "So you decided to keep the line moving and put the iron off‑balance on hold. What did you expect would happen if you waited just a little longer?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I thought the fire wouldn’t spread. I’d finish the tally, close the till, then walk down the hallway and turn the knob."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "And then the spark turned into something bigger."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yes. The spark caught the curtains and the whole house went up in flames. The fire took everything—twenty years of memories, the kids’ rooms, all of it."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "I’m hearing a lot of loss and a huge weight of shame. How are you feeling when you think about that night?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I feel like I’m suffocating under a cloud of shame. It’s as if I’ve shattered our family’s legacy, and even the idea of a safe place feels abandoned."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds overwhelming, like smoke filling a hallway and making it hard to breathe."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Exactly. Every time the register dings I hear that crackle in my head again. I replay that split second over and over, wondering why I didn’t just turn the iron off."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like you’re stuck in a loop of “what if” thoughts, and the beep of the register is pulling you right back into that moment."
+      },
+      {
+        "speaker": "Patient",
+        "content": "I keep telling myself I was trying to keep the line moving so the boss wouldn’t yell, but now I feel like I let everyone down—my kids, my family, even the store."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’ve described a belief that you have to be the one who holds everything together, the dependable guard of the household."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Yeah, that’s how I’ve always seen myself. I was organized, checked the hallway, thought I could multitask—like I’ve done a hundred times."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "When something so sudden happens, it can feel like the world you built crumbles in an instant. Let’s try to pause that replay. Would you be willing to try a short grounding exercise now?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’ll try. What do I do?"
+      },
+      {
+        "speaker": "Therapist",
+        "content": "First, place a hand on your chest. Feel the rise and fall of your breath. Count each inhale and exhale up to five, then notice three things you can see, two you can hear, one you can feel. It’s a small anchor when the register beep tries to pull you back."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Okay… I’m feeling the pulse of my heart, counting… one, two… I see the breakroom wall, the clock, the coffee maker. I hear the hum of the fridge, the soft click of the door. I feel the chair under me, a bit like charcoal."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You did it. How does that feel compared to the flood of images?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "It’s a tiny relief, like a little window of quiet. The crackle still lingers, but it’s not as overpowering."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Good. You mentioned you tried lighting a candle earlier. How did that go?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "I lit a small candle in the breakroom, hoping the gentle flame would replace the fire memory. The wax smell just mixed with the burnt wood in my head, and the crackle kept looping whenever the register beeped."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "It sounds like the candle reminded you of the loss rather than soothing it. Since you’re open‑minded, would you be interested in trying a different sensory cue? Maybe a soft piece of music or a textured object you can hold."
+      },
+      {
+        "speaker": "Patient",
+        "content": "I have a smooth river‑stone from the park. I could keep it in my pocket and touch it when the beep comes up."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That could work as a grounding token. When the register dings, take a moment to press the stone, notice its coolness, and take a breath. It can signal to your brain that you’re safe now."
+      },
+      {
+        "speaker": "Patient",
+        "content": "I’ll try that. I’m scared that any cue will just bring back the smell of ash, but I’ll give it a shot."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Remember, the goal isn’t to erase the memory but to create space between the memory and your reaction. Each small pause is a step toward reclaiming control."
+      },
+      {
+        "speaker": "Patient",
+        "content": "I understand. I’ll start with the stone and the breathing count whenever the till beeps."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "That sounds like a concrete plan. How do you feel about setting a short check‑in next week to see how it’s going?"
+      },
+      {
+        "speaker": "Patient",
+        "content": "That would be helpful. I need to know if it’s working or if I’m just looping again."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "Great. We’ll meet again and review what’s helped and what still feels stuck. For now, try the stone, the breath count, and give yourself permission to feel the shame without letting it define you."
+      },
+      {
+        "speaker": "Patient",
+        "content": "Thank you. I’ll see you next week."
+      },
+      {
+        "speaker": "Therapist",
+        "content": "You’re welcome, Catherine. Take care of yourself until then."
+      }
+    ],
+    "prolific_info": {
+      "uid": "prolific_5e8d0c7d40d8520da1903a86",
+      "email": "prolific_5e8d0c7d40d8520da1903a86@annotation.local",
+      "displayName": "Unknown",
+      "assignedDialogues": []
+    },
+    "assigned_genre": "grief, loss & trauma"
+  }
+}
