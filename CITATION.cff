@@ -1,0 +1,40 @@
+cff-version: 1.2.0
+message: "If you use AppraiSal or PRISM, please cite the paper below."
+title: "AppraiSal and PRISM"
+repository-code: "https://github.com/seacowx/AppraiSal-and-PRISM"
+license: CC-BY-SA-4.0
+authors:
+  - family-names: Xu
+    given-names: Hainiu
+  - family-names: Sun
+    given-names: Zhaoyue
+  - family-names: Yan
+    given-names: Hanqi
+  - family-names: Du
+    given-names: Jinhua
+  - family-names: Catmur
+    given-names: Caroline
+  - family-names: He
+    given-names: Yulan
+preferred-citation:
+  type: conference-paper
+  title: "Why It Hurts: Identifying the Drivers of Negative Thoughts in Emotional Support Conversations"
+  authors:
+    - family-names: Xu
+      given-names: Hainiu
+    - family-names: Sun
+      given-names: Zhaoyue
+    - family-names: Yan
+      given-names: Hanqi
+    - family-names: Du
+      given-names: Jinhua
+    - family-names: Catmur
+      given-names: Caroline
+    - family-names: He
+      given-names: Yulan
+  collection-title: "Proceedings of the 2026 Conference on Empirical Methods in Natural Language Processing (EMNLP 2026)"
+  year: 2026
+  identifiers:
+    - type: other
+      value: "arXiv:2607.28648"
+  url: "https://arxiv.org/abs/2607.28648"
