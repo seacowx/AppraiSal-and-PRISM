@@ -30,6 +30,9 @@ This repository releases:
 - **AppraiSal** (**Apprai**sal **Sal**iency): a benchmark of **996** emotional support conversations (ESCs) with human-annotated pre-event beliefs, desires and intentions (BDI) and the **5 most salient** of 14 cognitive appraisal dimensions.
 - **PRISM** (**PR**obabilistic **I**nference of **S**alient **M**ental States): a multi-agent probabilistic framework grounded in Bayesian Inverse Planning (BIP) that improves LLMs' ability to infer context-specific appraisals.
 
+> [!NOTE]
+> The AppraiSal dataset is available now on Hugging Face at [`SeacowX/AppraiSal`](https://huggingface.co/datasets/SeacowX/AppraiSal). **The code for PRISM will be available soon.**
+
 ## News
 
 - The AppraiSal dataset is released on [Hugging Face](https://huggingface.co/datasets/SeacowX/AppraiSal).
@@ -132,7 +135,7 @@ from datasets import load_dataset
 ds = load_dataset("SeacowX/AppraiSal")
 ```
 
-A 10-record preview is included in this repository at [`data/AppraiSal_sample_data.json`](data/AppraiSal_sample_data.json):
+A 10-record sample is also included in this repository at [`data/AppraiSal_sample_data.json`](data/AppraiSal_sample_data.json):
 
 ```python
 import json
@@ -147,7 +150,7 @@ for record_id, record in data.items():
 
 ### Record schema
 
-The preview file is a JSON object keyed by record ID. Each record has:
+The sample file is a JSON object keyed by record ID. Each record has:
 
 | Field | Type | Description |
 | --- | --- | --- |
@@ -244,7 +247,7 @@ Human pairwise preference for Saliency-Guided responses (win / tie / loss, %):
 ## Poster
 
 <p align="center">
-  <a href="assets/poster.pdf"><img src="assets/poster_preview.png" width="600" alt="EMNLP 2026 poster"></a>
+  <a href="assets/poster.pdf"><img src="assets/poster.png" width="600" alt="EMNLP 2026 poster"></a>
 </p>
 
 ## Citation
